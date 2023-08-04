@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MealsToGo",
-    "slug": "MealsToGo",
+    "name": "ludicrous-nachos",
+    "slug": "snack-da00cd69-962c-492b-9ede-1f8ac6f65ecd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.deka23.snackda00cd69962c492b9ede1f8ac6f65ecd"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f742a5b4-7ad1-4e2f-8418-30a458dadc45"
+      }
     }
   }
 }
